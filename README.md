@@ -22,8 +22,11 @@ Welcome to my portfolio! I'm a Data Analytics and Machine Learning enthusiast wi
 - Unnecessary expenses highlighted
 
 📎 **[Project Link](#)**  
-🖼️ **Project Report:** Analyse_your_own_expense_1.png
----
+🖼️ **Project Report:** 
+<p align="center">
+  <img src="images/Analyse_your_own_expense_1.png" width="45%">
+  <img src="images/Analyse_your_own_expense_2.png" width="45%">
+</p>
 
 ### 2️⃣ COVID-19 Data Analysis
 📌 **Objective:** Analyze global COVID-19 data and identify trends in infection rates and recoveries.
