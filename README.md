@@ -6,7 +6,7 @@ Welcome to my portfolio! I'm a Data Analytics and Machine Learning enthusiast wi
 
 ## 📂 Featured Projects (7 Projects)
 
-### 1️⃣ Analyze Your Own Expenses
+### [1️⃣ Analyze Your Own Expenses](https://colab.research.google.com/drive/1h8pR0lL-iaD3lfLFRsYbkQwSqLKH1djj?usp=drive_link)
 📌 **Objective:** Analyze personal expenses using Python to generate insights on spending patterns.
 
 🛠️ **Tech Stack:** Python, Pandas, NumPy, Matplotlib, Seaborn  
@@ -20,8 +20,7 @@ Welcome to my portfolio! I'm a Data Analytics and Machine Learning enthusiast wi
 🔍 **Results & Insights:**
 - Monthly spending trends identified
 - Unnecessary expenses highlighted
-
-📎 **[Project Link](#)**  
+ 
 🖼️ **Project Report:** 
 <p align="center">
   <img src="images/Analyse_your_own_expense_1.png" width="45%">
