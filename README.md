@@ -22,7 +22,7 @@ Welcome to my portfolio! I'm a Data Analytics and Machine Learning enthusiast wi
 - Unnecessary expenses highlighted
 
 📎 **[Project Link](#)**  
-🖼️ **Project Report:** (Insert image here)
+🖼️ **Project Report:** *(Images Side by Side)*
 
 ---
 
@@ -42,7 +42,7 @@ Welcome to my portfolio! I'm a Data Analytics and Machine Learning enthusiast wi
 - Impact of lockdowns analyzed
 
 📎 **[Project Link](#)**  
-🖼️ **Project Report:** (Insert image here)
+🖼️ **Project Report:** *(Images Side by Side)*
 
 ---
 
@@ -61,7 +61,7 @@ Welcome to my portfolio! I'm a Data Analytics and Machine Learning enthusiast wi
 - Identified key factors influencing price
 
 📎 **[Project Link](#)**  
-🖼️ **Project Report:** (Insert image here)
+🖼️ **Project Report:** *(Images Side by Side)*
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to my portfolio! I'm a Data Analytics and Machine Learning enthusiast wi
 - Optimized marketing strategies
 
 📎 **[Project Link](#)**  
-🖼️ **Project Report:** (Insert image here)
+🖼️ **Project Report:** *(Images Side by Side)*
 
 ---
 
@@ -99,7 +99,7 @@ Welcome to my portfolio! I'm a Data Analytics and Machine Learning enthusiast wi
 - Analyzed follower growth & retention
 
 📎 **[Project Link](#)**  
-🖼️ **Project Report:** (Insert image here)
+🖼️ **Project Report:** *(Images Side by Side)*
 
 ---
 
@@ -118,7 +118,7 @@ Welcome to my portfolio! I'm a Data Analytics and Machine Learning enthusiast wi
 - Business decision-making supported with data
 
 📎 **[Project Link](#)**  
-🖼️ **Project Report:** (Insert image here)
+🖼️ **Project Report:** *(Images Side by Side)*
 
 ---
 
@@ -137,7 +137,7 @@ Welcome to my portfolio! I'm a Data Analytics and Machine Learning enthusiast wi
 - Key cost-cutting opportunities suggested
 
 📎 **[Project Link](#)**  
-🖼️ **Project Report:** (Insert image here)
+🖼️ **Project Report:** *(Images Side by Side)*
 
 ---
 
