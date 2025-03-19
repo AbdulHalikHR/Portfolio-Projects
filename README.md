@@ -21,12 +21,6 @@ Welcome to my portfolio! I'm a Data Analytics and Machine Learning enthusiast wi
 - Monthly spending trends identified
 - Unnecessary expenses highlighted
 
-🎮 **Project Report:**
-<p align="center">
-  <img src="images/Analyse_your_own_expense_1.png" width="45%">
-  <img src="images/Analyse_your_own_expense_2.png" width="45%">
-</p>
-
 ---
 
 ### [2️⃣ COVID-19 Data Analysis](https://colab.research.google.com/drive/1Eo2laU9DqxizQ5Kgy2EaFEMcfFN9xuyg?usp=sharing)
@@ -151,5 +145,17 @@ Welcome to my portfolio! I'm a Data Analytics and Machine Learning enthusiast wi
 - **Bachelor of Engineering (B.E) in Computer Science & Engineering**
 - **Anna University, 2024, CGPA: 7.89/10**
 
+## 📞 Contact Me
+- **GitHub** [Abdul Halik's Github](github.com/AbdulHalikHR)
+- **LinkedIn** [Abdul Halik's LinkedIn Profile](https://www.linkedin.com/in/abdul-halik-15b14927b/)
+- **Email:** abdulhalikhrcse@gmail.com
+- **Mobile:** +918220528692
+- **Address:** Mayiladuthurai, Tamil Nadu, India
+
+---
+
+
 🚀 **Thank you for visiting my portfolio! Feel free to connect with me.**
+
+
 
