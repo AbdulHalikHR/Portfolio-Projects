@@ -4,7 +4,7 @@ Welcome to my portfolio! I'm a Data Analytics and Machine Learning enthusiast wi
 
 ---
 
-## 📂 Featured Projects (7 Projects)
+## 🐂 Featured Projects (8 Projects)
 
 ### [1️⃣ Analyze Your Own Expenses](https://colab.research.google.com/drive/1h8pR0lL-iaD3lfLFRsYbkQwSqLKH1djj?usp=drive_link)
 📌 **Objective:** Analyze personal expenses using Python to generate insights on spending patterns.
@@ -20,14 +20,16 @@ Welcome to my portfolio! I'm a Data Analytics and Machine Learning enthusiast wi
 🔍 **Results & Insights:**
 - Monthly spending trends identified
 - Unnecessary expenses highlighted
- 
-🖼️ **Project Report:** 
+
+🎮 **Project Report:**
 <p align="center">
   <img src="images/Analyse_your_own_expense_1.png" width="45%">
   <img src="images/Analyse_your_own_expense_2.png" width="45%">
 </p>
 
-### 2️⃣ COVID-19 Data Analysis
+---
+
+### [2️⃣ COVID-19 Data Analysis](https://colab.research.google.com/drive/1Eo2laU9DqxizQ5Kgy2EaFEMcfFN9xuyg?usp=sharing)
 📌 **Objective:** Analyze global COVID-19 data and identify trends in infection rates and recoveries.
 
 🛠️ **Tech Stack:** Python, Pandas, NumPy, Matplotlib, Seaborn  
@@ -42,12 +44,9 @@ Welcome to my portfolio! I'm a Data Analytics and Machine Learning enthusiast wi
 - Infection growth patterns visualized
 - Impact of lockdowns analyzed
 
-📎 **[Project Link](#)**  
-🖼️ **Project Report:** *(Images Side by Side)*
-
 ---
 
-### 3️⃣ Used Smartphone Price Prediction (Mini Project)
+### [3️⃣ Used Smartphone Price Prediction (Mini Project)](https://colab.research.google.com/drive/1QsAs8qKCr3IiuBe5Swz6uATUF07ZpViu?usp=sharing)
 📌 **Objective:** Predict used smartphone prices using Machine Learning.
 
 🛠️ **Tech Stack:** Python, Pandas, NumPy, Scikit-Learn, Random Forest  
@@ -61,12 +60,9 @@ Welcome to my portfolio! I'm a Data Analytics and Machine Learning enthusiast wi
 - Achieved X% accuracy in price prediction
 - Identified key factors influencing price
 
-📎 **[Project Link](#)**  
-🖼️ **Project Report:** *(Images Side by Side)*
-
 ---
 
-### 4️⃣ Customer Segmentation
+### [4️⃣ Customer Segmentation](https://colab.research.google.com/drive/1UK3GHa-YSd5Sm-xwNdh7Z5qhUc1Jw8kJ?usp=sharing)
 📌 **Objective:** Segment customers based on purchasing behavior.
 
 🛠️ **Tech Stack:** Python, Pandas, NumPy, K-Means Clustering, Seaborn  
@@ -80,12 +76,9 @@ Welcome to my portfolio! I'm a Data Analytics and Machine Learning enthusiast wi
 - Identified key customer groups
 - Optimized marketing strategies
 
-📎 **[Project Link](#)**  
-🖼️ **Project Report:** *(Images Side by Side)*
-
 ---
 
-### 5️⃣ Instagram User Analytics (MySQL Project)
+### [5️⃣ Instagram User Analytics (MySQL Project)](https://drive.google.com/file/d/1NdL0BNNQcVVBsiW1wgjxEfZ72mKGOtuC/view?usp=sharing)
 📌 **Objective:** Analyze Instagram user interactions and engagement metrics.
 
 🛠️ **Tech Stack:** MySQL, Data Querying  
@@ -99,12 +92,9 @@ Welcome to my portfolio! I'm a Data Analytics and Machine Learning enthusiast wi
 - Identified active users & engagement trends
 - Analyzed follower growth & retention
 
-📎 **[Project Link](#)**  
-🖼️ **Project Report:** *(Images Side by Side)*
-
 ---
 
-### 6️⃣ Operational Analysis for Microsoft (MySQL Project)
+### [6️⃣ Operational Analysis for Microsoft (MySQL Project)](https://drive.google.com/file/d/1TlTTme9srUf3SbdKTMSEHnymeYg6/view?usp=sharing)
 📌 **Objective:** Conduct operational analysis and investigate key business metrics for Microsoft.
 
 🛠️ **Tech Stack:** MySQL, Data Querying  
@@ -118,27 +108,37 @@ Welcome to my portfolio! I'm a Data Analytics and Machine Learning enthusiast wi
 - Key operational bottlenecks identified
 - Business decision-making supported with data
 
-📎 **[Project Link](#)**  
-🖼️ **Project Report:** *(Images Side by Side)*
+---
+
+### [7️⃣ Sales Analytics (Excel Project)](https://drive.google.com/drive/folders/11lMBFDB3zeUFDUSXrVotc74tLYnlhaV5?usp=sharing)
+📌 **Objective:** Perform sales analysis for AtliQ Hardwares.
+
+🛠️ **Tech Stack:** Microsoft Excel, Pivot Tables, Power Query  
+📊 **Dataset:** Sales records of AtliQ Hardwares  
+📈 **Implementation:**
+- Sales Trend Analysis
+- Customer Purchase Patterns
+- Revenue Growth Analysis
+
+🔍 **Results & Insights:**
+- Sales performance improvements identified
+- Data-driven decision-making supported
 
 ---
 
-### 7️⃣ Sales & Finance Analytics (Excel Project)
-📌 **Objective:** Perform sales and financial analysis for AtliQ Hardwares.
+### [8️⃣ Finance Analytics (Excel Project)](https://drive.google.com/drive/folders/1o756u0X0AneFqPhrwAoEdz03-5ngf5Sl?usp=sharing)
+📌 **Objective:** Analyze financial performance and budgeting for AtliQ Hardwares.
 
-🛠️ **Tech Stack:** Microsoft Excel, Pivot Tables, Power Query  
-📊 **Dataset:** Sales and financial records of AtliQ Hardwares  
+🛠️ **Tech Stack:** Microsoft Excel, Power Query  
+📊 **Dataset:** Financial records of AtliQ Hardwares  
 📈 **Implementation:**
-- Data Cleaning & Transformation
-- Sales Trend Analysis
-- Financial Performance Metrics
+- Financial Performance Metrics Calculation
+- Cost-Cutting Opportunity Analysis
+- Budget Forecasting
 
 🔍 **Results & Insights:**
-- Revenue growth patterns identified
-- Key cost-cutting opportunities suggested
-
-📎 **[Project Link](#)**  
-🖼️ **Project Report:** *(Images Side by Side)*
+- Key cost-saving strategies identified
+- Budget optimization recommendations provided
 
 ---
 
@@ -147,31 +147,9 @@ Welcome to my portfolio! I'm a Data Analytics and Machine Learning enthusiast wi
 - **Data Analytics:** MS Excel, MySQL, Power BI
 - **Libraries & Frameworks:** NumPy, Pandas, Matplotlib, Seaborn, Scikit-Learn
 
----
-
-## 🎯 Soft Skills
-- Networking
-- Multilingual Communication
-- Public Speaking
-- Problem Solving
-- Critical Thinking
-- Collaboration & Teamwork
-- Adaptability & Leadership
-
----
-
-## 🎓 Certifications & Education
-- **Online Internship:** 8 months at TRAINITY (MySQL projects completed here)
-- **Data Analytics Bootcamp:** CodeBasics (Excel projects completed here)
-- **Certifications:**
-  - Introduction to Data Analytics using Microsoft Excel (Completed)
-  - Google Data Analytics Professional Certificate (Completed 3 out of 8 modules)
-- **Education:**
-  - **Bachelor of Engineering (B.E) in Computer Science & Engineering**
-  - **Aalim Muhammed Salegh College of Engineering, Anna University**
-  - **Graduated: 2024, CGPA: 7.89/10**
-
----
+## 🌟 Certifications & Education
+- **Bachelor of Engineering (B.E) in Computer Science & Engineering**
+- **Anna University, 2024, CGPA: 7.89/10**
 
 🚀 **Thank you for visiting my portfolio! Feel free to connect with me.**
 
