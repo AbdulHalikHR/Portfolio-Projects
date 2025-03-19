@@ -22,8 +22,7 @@ Welcome to my portfolio! I'm a Data Analytics and Machine Learning enthusiast wi
 - Unnecessary expenses highlighted
 
 📎 **[Project Link](#)**  
-🖼️ **Project Report:** (https://github.com/AbdulHalikHR/Portfolio-Projects/upload/main#:~:text=Analyse_your_own_expense_1.png)
-
+🖼️ **Project Report:** Analyse_your_own_expense_1.png
 ---
 
 ### 2️⃣ COVID-19 Data Analysis
