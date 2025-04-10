@@ -146,7 +146,7 @@ Welcome to my portfolio! I'm a Data Analytics and Machine Learning enthusiast wi
 - **Anna University, 2024, CGPA: 7.89/10**
 
 ## 📞 Contact Me
-- **GitHub** [Abdul Halik's Github](github.com/AbdulHalikHR/)
+- **GitHub** [Abdul Halik's Github]([github.com/AbdulHalikHR/](https://github.com/dashboard))
 - **LinkedIn** [Abdul Halik's LinkedIn Profile](https://www.linkedin.com/in/abdul-halik-15b14927b/)
 - **Email:** abdulhalikhrcse@gmail.com
 - **Mobile:** +918220528692
