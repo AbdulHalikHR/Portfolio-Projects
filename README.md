@@ -6,7 +6,7 @@ Welcome to my portfolio! I'm a Data Analytics and Machine Learning enthusiast wi
 
 ## 🐂 Featured Projects (8 Projects)
 
-### [1️⃣ Analyze Your Own Expenses](https://colab.research.google.com/drive/1h8pR0lL-iaD3lfLFRsYbkQwSqLKH1djj?usp=drive_link)
+### 1️⃣ Analyze Your Own Expenses [Link](https://colab.research.google.com/drive/1h8pR0lL-iaD3lfLFRsYbkQwSqLKH1djj?usp=drive_link)
 📌 **Objective:** Analyze personal expenses using Python to generate insights on spending patterns.
 
 🛠️ **Tech Stack:** Python, Pandas, NumPy, Matplotlib, Seaborn  
@@ -23,7 +23,7 @@ Welcome to my portfolio! I'm a Data Analytics and Machine Learning enthusiast wi
 
 ---
 
-### [2️⃣ COVID-19 Data Analysis](https://colab.research.google.com/drive/1Eo2laU9DqxizQ5Kgy2EaFEMcfFN9xuyg?usp=sharing)
+### 2️⃣ COVID-19 Data Analysis[Link](https://colab.research.google.com/drive/1Eo2laU9DqxizQ5Kgy2EaFEMcfFN9xuyg?usp=sharing)
 📌 **Objective:** Analyze global COVID-19 data and identify trends in infection rates and recoveries.
 
 🛠️ **Tech Stack:** Python, Pandas, NumPy, Matplotlib, Seaborn  
@@ -40,7 +40,7 @@ Welcome to my portfolio! I'm a Data Analytics and Machine Learning enthusiast wi
 
 ---
 
-### [3️⃣ Used Smartphone Price Prediction (Mini Project)](https://colab.research.google.com/drive/1QsAs8qKCr3IiuBe5Swz6uATUF07ZpViu?usp=sharing)
+### 3️⃣ Used Smartphone Price Prediction (Mini Project) [Link](https://colab.research.google.com/drive/1QsAs8qKCr3IiuBe5Swz6uATUF07ZpViu?usp=sharing)
 📌 **Objective:** Predict used smartphone prices using Machine Learning.
 
 🛠️ **Tech Stack:** Python, Pandas, NumPy, Scikit-Learn, Random Forest  
@@ -56,7 +56,7 @@ Welcome to my portfolio! I'm a Data Analytics and Machine Learning enthusiast wi
 
 ---
 
-### [4️⃣ Customer Segmentation](https://colab.research.google.com/drive/1UK3GHa-YSd5Sm-xwNdh7Z5qhUc1Jw8kJ?usp=sharing)
+### 4️⃣ Customer Segmentation [Link](https://colab.research.google.com/drive/1UK3GHa-YSd5Sm-xwNdh7Z5qhUc1Jw8kJ?usp=sharing)
 📌 **Objective:** Segment customers based on purchasing behavior.
 
 🛠️ **Tech Stack:** Python, Pandas, NumPy, K-Means Clustering, Seaborn  
@@ -72,7 +72,7 @@ Welcome to my portfolio! I'm a Data Analytics and Machine Learning enthusiast wi
 
 ---
 
-### [5️⃣ Instagram User Analytics (MySQL Project)](https://drive.google.com/file/d/1NdL0BNNQcVVBsiW1wgjxEfZ72mKGOtuC/view?usp=sharing)
+### 5️⃣ Instagram User Analytics (MySQL Project) [Link](https://drive.google.com/file/d/1NdL0BNNQcVVBsiW1wgjxEfZ72mKGOtuC/view?usp=sharing)
 📌 **Objective:** Analyze Instagram user interactions and engagement metrics.
 
 🛠️ **Tech Stack:** MySQL, Data Querying  
@@ -88,7 +88,7 @@ Welcome to my portfolio! I'm a Data Analytics and Machine Learning enthusiast wi
 
 ---
 
-### [6️⃣ Operational Analysis for Microsoft (MySQL Project)](https://drive.google.com/file/d/1TlTTme9srUf3SbdKTMSEHnymeYg6/view?usp=sharing)
+### 6️⃣ Operational Analysis for Microsoft (MySQL Project) [Link](https://drive.google.com/file/d/1TlTTme9srUf3SbdKTMSEHnymeYg6/view?usp=sharing)
 📌 **Objective:** Conduct operational analysis and investigate key business metrics for Microsoft.
 
 🛠️ **Tech Stack:** MySQL, Data Querying  
@@ -104,7 +104,7 @@ Welcome to my portfolio! I'm a Data Analytics and Machine Learning enthusiast wi
 
 ---
 
-### [7️⃣ Sales Analytics (Excel Project)](https://drive.google.com/drive/folders/11lMBFDB3zeUFDUSXrVotc74tLYnlhaV5?usp=sharing)
+### 7️⃣ Sales Analytics (Excel Project) [Link](https://drive.google.com/drive/folders/11lMBFDB3zeUFDUSXrVotc74tLYnlhaV5?usp=sharing)
 📌 **Objective:** Perform sales analysis for AtliQ Hardwares.
 
 🛠️ **Tech Stack:** Microsoft Excel, Pivot Tables, Power Query  
@@ -120,7 +120,7 @@ Welcome to my portfolio! I'm a Data Analytics and Machine Learning enthusiast wi
 
 ---
 
-### [8️⃣ Finance Analytics (Excel Project)](https://drive.google.com/drive/folders/1o756u0X0AneFqPhrwAoEdz03-5ngf5Sl?usp=sharing)
+### 8️⃣ Finance Analytics (Excel Project) [Link](https://drive.google.com/drive/folders/1o756u0X0AneFqPhrwAoEdz03-5ngf5Sl?usp=sharing)
 📌 **Objective:** Analyze financial performance and budgeting for AtliQ Hardwares.
 
 🛠️ **Tech Stack:** Microsoft Excel, Power Query  
