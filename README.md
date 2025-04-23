@@ -23,7 +23,7 @@ Welcome to my portfolio! I'm a Data Analytics and Machine Learning enthusiast wi
 
 ---
 
-### 2️⃣ COVID-19 Data Analysis[Link](https://colab.research.google.com/drive/1Eo2laU9DqxizQ5Kgy2EaFEMcfFN9xuyg?usp=sharing)
+### 2️⃣ COVID-19 Data Analysis [Link](https://colab.research.google.com/drive/1Eo2laU9DqxizQ5Kgy2EaFEMcfFN9xuyg?usp=sharing)
 📌 **Objective:** Analyze global COVID-19 data and identify trends in infection rates and recoveries.
 
 🛠️ **Tech Stack:** Python, Pandas, NumPy, Matplotlib, Seaborn  
