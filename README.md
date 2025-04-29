@@ -150,7 +150,7 @@ Welcome to my portfolio! I'm a Data Analytics and Machine Learning enthusiast wi
 - **LinkedIn** [Abdul Halik's LinkedIn Profile](https://www.linkedin.com/in/abdul-halik-15b14927b/)
 - **Email:** abdulhalikhrcse@gmail.com
 - **Mobile:** +918220528692
-- **Address:** Mayiladuthurai, Tamil Nadu, India
+- **Location:** Bengaluru/Chennai
 
 ---
 
